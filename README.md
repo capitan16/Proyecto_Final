@@ -229,6 +229,29 @@ flowchart TD
 
 ```
 
+### Estados de una arepa
+
+```mermaid
+    stateDiagram-v2
+    [*] --> IDLE: Arepa en estantería
+    
+    IDLE --> SELECTED: Usuario selecciona
+    SELECTED --> MOVING_TO_GRILL: Proceso iniciado
+    
+    MOVING_TO_GRILL --> COOKING_SIDE1: Colocada en parrilla
+    COOKING_SIDE1 --> FLIPPING: Tiempo lado 1 completado
+    
+    FLIPPING --> COOKING_SIDE2: Arepa volteada
+    COOKING_SIDE2 --> MOVING_TO_DELIVERY: Tiempo lado 2 completado
+    
+    MOVING_TO_DELIVERY --> DELIVERED: Colocada en área entrega
+    DELIVERED --> [*]: Proceso completado
+    
+    COOKING_SIDE1: Timer cook_time_side1
+    COOKING_SIDE2: Timer cook_time_side2
+    FLIPPING: Operación física del robot
+```
+
 ---
 
 ## 💾 Código Fuente
