@@ -1,5 +1,17 @@
 # 🤖 Automatización del Proceso de Preparación de Arepas
 
+---
+
+**Autores:** - Juan Manuel Rojas Luna
+             - Miguel Angel Mejia Ortiz
+             - Santiago Ospina Contreras
+             - Juan Diego Tovar Cardenas
+             - Dixon Alberto Cuesta Segura
+             
+**Curso:** Robótica - 2025-I
+
+**Universidad Nacional de Colombia**
+
 ## 🌟 Resultados de Aprendizaje
 
 Desarrollo de un sistema robotizado **simulado** para automatizar el proceso de preparación de arepas, desde la selección aleatoria en una vitrina hasta su cocción y entrega, usando herramientas como **RoboDK**, lógica de control por tareas y una interfaz HMI personalizada.
@@ -291,12 +303,4 @@ flowchart TD
 ## 📌 Consideraciones Finales
 
 
----
 
-**Autores:** - Juan Manuel Rojas Luna
-             - Miguel Angel Mejia Ortiz
-             - Santiago Ospina Contreras
-             - Juan Diego Tovar Cardenas
-             - Dixon Alberto Cuesta Segura
-**Curso:** Robótica - 2025-I
-**Universidad Nacional de Colombia**
