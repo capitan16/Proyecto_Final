@@ -62,6 +62,13 @@ Diseñado para adaptarse a distintas formas y pesos de arepas. Utiliza actuadore
       <img src="img/gripper_real.jpg" alt="Foto del gripper" width="400"/>
     </p>
 
+** Modelos de Arepa**
+
+  <p align="center">
+        <img src="img/arepas.jpg" alt="Arepas" width="400"/>
+    </p>
+
+**Video Gripper con Arepa**
 
 **📐 Modelo CAD del gripper:**
     <p align="center">
