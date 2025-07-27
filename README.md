@@ -45,6 +45,12 @@ La elaboración manual de arepas en entornos industriales puede ser ineficiente,
 * Distribuidas aleatoriamente en 6 posiciones de estantería: `A1 - B3`.
 * Parrilla de cocción con 4 posiciones: `1 - 4`.
 
+## Desarrollo de las estanterias
+
+  <p align="center">
+        <img src="img/boceto_estanteria.png" alt="estanteria/parrilla" width="600"/>
+    </p>
+
 ---
 
 ## 🔧 Desarrollo del Gripper
