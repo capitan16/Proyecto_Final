@@ -121,7 +121,7 @@ Diseñado para adaptarse a distintas formas y pesos de arepas. Utiliza actuadore
 **📸 Captura de la interfaz HMI:**
     - Inicio del HMI
     <p align="center">
-        <img src="img/HMI1.png" alt="HMI" width="700"/>
+        <img src="img/HMI.jpeg" alt="HMI" width="700"/>
     </p>
 
 ---
