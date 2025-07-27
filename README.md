@@ -40,7 +40,10 @@ La elaboración manual de arepas en entornos industriales puede ser ineficiente,
 Diseñado para adaptarse a distintas formas y pesos de arepas. Utiliza actuadores neumáticos con doble efecto y montaje modular en el extremo del robot.
 
 **📸 Foto del gripper:**
-`![Foto del gripper](ruta/a/la/foto.jpg)`
+    <p align="center">
+      <img src="img/gripper_real.jpg" alt="Foto del gripper" width="400"/>
+    </p>
+
 
 **📐 Modelo CAD del gripper:**
 `![Modelo CAD del gripper](ruta/a/la/foto.jpg)`
