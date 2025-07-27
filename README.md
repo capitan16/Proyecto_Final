@@ -70,6 +70,13 @@ Diseñado para adaptarse a distintas formas y pesos de arepas. Utiliza actuadore
 
 **Video Gripper con Arepa**
 
+<div align="center">
+  <video width="640" height="480" controls>
+    <source src="agarre_grip.mp4" type="video/mp4">
+    Tu navegador no soporta el elemento video.
+  </video>
+</div>
+
 **📐 Modelo CAD del gripper:**
     <p align="center">
         <img src="img/griper_cad.png" alt="Modelo CAD del Gripper" width="400"/>
