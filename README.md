@@ -50,9 +50,9 @@ Diseñado para adaptarse a distintas formas y pesos de arepas. Utiliza actuadore
         <img src="img/griper_cad.png" alt="Modelo CAD del Gripper" width="400"/>
     </p>
 
-**🔩 Gripper montado en el robot:**
+**🔩 Gripper montado en el robot (Simulación):**
 <p align="center">
-        <img src="img/calib_tcp.png" alt="Modelo CAD del Gripper" width="400"/>
+        <img src="img/calib_tcp.png" alt="Gripper montado en el robot" width="400"/>
     </p>
 
 ---
@@ -64,7 +64,9 @@ Diseñado para adaptarse a distintas formas y pesos de arepas. Utiliza actuadore
 * Sistema de entrega automatizado con posiciones de salida.
 
 **📸 Robot con estantería y arepas:**
-`![Robot con estantería y arepas](ruta/a/la/foto.jpg)`
+    <p align="center">
+        <img src="img/robot_est_arepas.png" alt="Robot con estanterias y arepas" width="400"/>
+    </p>
 
 ---
 
@@ -85,7 +87,10 @@ Diseñado para adaptarse a distintas formas y pesos de arepas. Utiliza actuadore
 * Ajuste de velocidades y control de ejecución.
 
 **📸 Captura de la interfaz HMI:**
-`![Interfaz HMI](ruta/a/la/foto.jpg)`
+    - Inicio del HMI
+    <p align="center">
+        <img src="img/HMI1.png" alt="HMI" width="400"/>
+    </p>
 
 ---
 
