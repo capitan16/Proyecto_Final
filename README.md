@@ -278,12 +278,13 @@ flowchart TD
 
 ## 📌 Consideraciones Finales
 
-* Todo el desarrollo fue realizado en simulación.
-* Se documenta el sistema como si estuviera listo para implementación real.
-* Se priorizó la lógica modular y la adaptabilidad del sistema.
 
 ---
 
-**Autores:** \[Nombres del equipo]
+**Autores:** - Juan Manuel Rojas Luna
+             - Miguel Angel Mejia Ortiz
+             - Santiago Ospina Contreras
+             - Juan Diego Tovar Cardenas
+             - Dixon Alberto Cuesta Segura
 **Curso:** Robótica - 2025-I
 **Universidad Nacional de Colombia**
