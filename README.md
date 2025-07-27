@@ -47,7 +47,7 @@ Diseñado para adaptarse a distintas formas y pesos de arepas. Utiliza actuadore
 
 **📐 Modelo CAD del gripper:**
     <p align="center">
-        <img src="img/griper_cad.jpg" alt="Modelo CAD del Gripper" width="400"/>
+        <img src="img/griper_cad.png" alt="Modelo CAD del Gripper" width="400"/>
     </p>
 
 **🔩 Gripper montado en el robot:**
