@@ -308,7 +308,7 @@ flowchart TD
 * Funciones dedicadas: `pickup_arepa()`, `flip_arepa_on_grill()`, `deliver_arepa()`.
 * Optimiza el orden de procesamiento según prioridad y tiempo de cocción.
 
-**🔗 Ver código completo:** [proyecto\_arepas.py](ruta/a/github)
+**🔗 Ver código completo:** [Prog1.py](./Prog1.py)
 
 ---
 
