@@ -314,9 +314,7 @@ flowchart TD
 
 ## 🎥 Video del Proyecto
 
-* Simulación completa en RoboDK con trayectorias.
-* Explicación del funcionamiento del gripper y la interfaz.
-* [🔗 Ver video](https://...)
+* Puede ver el video del proyecto dando click [aquí](https://youtu.be/XrY33C70GtA)
 
 ---
 
