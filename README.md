@@ -318,7 +318,6 @@ flowchart TD
 
 ---
 
-## 📌 Consideraciones Finales
 
 
 
